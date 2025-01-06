@@ -1,1 +1,3 @@
-no requirement
+tkinter
+pytz
+
