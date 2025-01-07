@@ -1,5 +1,5 @@
 # From the repository, download the python image which is required for the project 
-FROM python:alpine
+FROM python:3.20-alpine
 
 # This command tells Docker to set /app as the working directory.
 WORKDIR /app
